@@ -1,0 +1,15 @@
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/CalSumAverageArray.csproj.AssemblyReference.cache
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/CalSumAverageArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/CalSumAverageArray.AssemblyInfoInputs.cache
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/CalSumAverageArray.AssemblyInfo.cs
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/CalSumAverageArray.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/CalSumAverageArray/bin/Debug/net6.0/CalSumAverageArray
+/home/saint/Desktop/CalSumAverageArray/bin/Debug/net6.0/CalSumAverageArray.deps.json
+/home/saint/Desktop/CalSumAverageArray/bin/Debug/net6.0/CalSumAverageArray.runtimeconfig.json
+/home/saint/Desktop/CalSumAverageArray/bin/Debug/net6.0/CalSumAverageArray.dll
+/home/saint/Desktop/CalSumAverageArray/bin/Debug/net6.0/CalSumAverageArray.pdb
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/CalSumAverageArray.dll
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/refint/CalSumAverageArray.dll
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/CalSumAverageArray.pdb
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/CalSumAverageArray.genruntimeconfig.cache
+/home/saint/Desktop/CalSumAverageArray/obj/Debug/net6.0/ref/CalSumAverageArray.dll
